@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "prompt-refinement": {
+      "source": { "source": "github", "repo": "zaharipi4a/prompt_refinement" }
+    }
+  },
+  "enabledPlugins": {
+    "sharpen@prompt-refinement": true
+  }
+}
